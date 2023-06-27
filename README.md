@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile! 👋
 
 ## About Me
-I'm a cybersecurity student with a strong passion for programming and a focus on secure coding practices. I specialize in Python, C, Assembly, Bash scripts, and PowerShell scripts. My goal is to protect digital systems and data by applying my programming skills and knowledge of cybersecurity.
+I'm a cybersecurity student with a strong passion for programming and a focus on secure coding practices. I specialize in Python, C, Assembly, Bash scripts, and PowerShell scripts. But I also have knowledge in MySQL, networking. My goal is to protect digital systems and data by applying my programming skills and knowledge of cybersecurity.
 
 ## Projects
 - [Project 1](link-to-project-1): Brief description of the project.
