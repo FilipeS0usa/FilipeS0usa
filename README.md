@@ -11,4 +11,4 @@ I'm a cybersecurity student with a strong passion for programming and a focus on
 
 ### Stats
 
-![Filipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=FilipeS0usa&show_icons=true&theme=radical)
+![Filipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=FilipeS0usa&show_icons=true&theme=shades-of-purple)
