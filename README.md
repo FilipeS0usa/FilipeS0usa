@@ -1,11 +1,11 @@
-# 👾 Filipe Sousa 👾
+# Filipe Sousa 
 
-## 📖StoryTime!
+## | StoryTime!
 I'm a cybersecurity student with a strong passion for programming and a focus on secure coding practices. I specialize in Python, C, Assembly, Bash scripts, and PowerShell scripts. But I also have knowledge in MySQL, networking (Cisco and Mikrotik), operative systems (Linux, Linux Server, Windows Server, Windows). My goal is to protect digital systems and data by applying my programming skills and knowledge of cybersecurity.
 
 ---
 
-## 🧑‍💻Skills
+## | Skills
 
 <img align="left" alt="Python" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="PHP" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
@@ -22,7 +22,7 @@ I'm a cybersecurity student with a strong passion for programming and a focus on
 <br />
 <br />
 
-## 📈Stats
+## | Stats
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=FilipeS0usa&show_icons=true&theme=shades-of-purple"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilipeS0usa&layout=compact&langs_count=7&theme=shades-of-purple"/>
