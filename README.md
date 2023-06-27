@@ -25,5 +25,5 @@ I'm a cybersecurity student with a strong passion for programming and a focus on
 ## 📈Stats
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=FilipeS0usa&show_icons=true&theme=shades-of-purple"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilipeS0usa&layout=compact&langs_count=7&theme=shades-of-purple"/>
+    <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilipeS0usa&layout=compact&langs_count=7&theme=shades-of-purple"/>
 </div>
