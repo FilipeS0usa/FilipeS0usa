@@ -1,7 +1,7 @@
 # Filipe Sousa 
 
 ## | StoryTime!
-I'm a cybersecurity student with a strong passion for programming and a focus on secure coding practices. I specialize in Python, C, Assembly, Bash scripts, and PowerShell scripts. But I also have knowledge in MySQL, MongoDB, networking (Cisco and Mikrotik), operative systems (Linux, Linux Server, Windows Server, Windows). My goal is to protect digital systems and data by applying my programming skills and knowledge of cybersecurity.
+I'm a cybersecurity student with a strong passion for programming and a focus on secure coding practices. I know some in Python, C, Assembly, Bash scripts, and PowerShell scripts. But I also have knowledge in MySQL, MongoDB, networking (Cisco and Mikrotik), operative systems (Linux, Linux Server, Windows Server, Windows). My goal is to protect digital systems and data by applying my programming skills and knowledge of cybersecurity.
 
 ---
 
