@@ -28,7 +28,5 @@ I'm a cybersecurity student with a strong passion for programming and a focus on
 ![FilipeS0usa's Stats](https://github-readme-stats.vercel.app/api?username=FilipeS0usa&theme=tokyonight&show_icons=true&hide_border=true&count_private=true) ![FilipeS0usa's Streak](https://github-readme-streak-stats.herokuapp.com/?user=FilipeS0usa&theme=tokyonight&hide_border=true)
 
 <div style="text-align: center;">
-  
 ![FilipeS0usa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FilipeS0usa&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&count_private=true)
-
 </div>
