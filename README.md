@@ -24,6 +24,9 @@ I'm a cybersecurity student with a strong passion for programming and a focus on
 <br />
 
 ## | Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+
 <div align="center">
     
     ![FilipeS0usa's Stats](https://github-readme-stats.vercel.app/api?username=FilipeS0usa&theme=cobalt&show_icons=true&hide_border=true&count_private=true)
