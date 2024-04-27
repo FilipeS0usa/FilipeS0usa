@@ -7,8 +7,6 @@ I'm a cybersecurity student with a strong passion for programming and a focus on
 
 
 ## | Skills
-<br />
-<br />
 
 <img align="left" alt="Python" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="PHP" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
