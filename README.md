@@ -1,7 +1,7 @@
 # Filipe Sousa 
 
 ## | StoryTime!
-I'm a cybersecurity student with a strong passion for programming and a focus on secure coding practices. I know some in Python, C, Assembly, Bash scripts, and PowerShell scripts. But I also have knowledge in MySQL, MongoDB, networking (Cisco and Mikrotik), operative systems (Linux, Linux Server). Most recently I have been addicted to Nix and NixOS.
+I'm a cybersecurity dev, but in reality an eternal student always eager to learn and with a strong passion for programming, always trying to focus on secure coding practices. Most recently I have been addicted to Nix and NixOS.
 
 ---
 
