@@ -27,3 +27,6 @@ I'm a cybersecurity dev, but in reality an eternal student always eager to learn
 ## | Stats
 
 ![FilipeS0usa's Stats](https://github-readme-stats.vercel.app/api?username=FilipeS0usa&theme=tokyonight&show_icons=true&hide_border=true&count_private=true) ![FilipeS0usa's Streak](https://github-readme-streak-stats.herokuapp.com/?user=FilipeS0usa&theme=tokyonight&hide_border=true) ![FilipeS0usa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FilipeS0usa&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&count_private=true)
+
+## | Where can you find me?
+![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Ffilipe_s0usa&style=for-the-badge&label=Twitter)
