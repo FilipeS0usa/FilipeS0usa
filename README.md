@@ -1,7 +1,7 @@
 # Filipe Sousa 
 
 ## | StoryTime!
-I'm a cybersecurity dev, but in reality an eternal student always eager to learn and with a strong passion for programming, always trying to focus on secure coding practices. Most recently I have been addicted to Nix and NixOS.
+I'm a cybersecurity dev, but in reality an eternal student always eager to learn and with a strong passion for programming, always trying to focus on secure coding practices. Most recently I have been addicted to Arch and Ricing my system.
 
 ---
 
