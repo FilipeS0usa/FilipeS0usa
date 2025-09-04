@@ -1,8 +1,7 @@
 # Filipe Sousa 
 
 ## | StoryTime!
-I'm a cybersecurity dev, but in reality an eternal student always eager to learn and with a strong passion for programming, always trying to focus on secure coding practices. Most recently I have been addicted to Arch and Ricing my system.
-
+Cybersecurity-focused developer and lifelong learner, passionate about programming and secure coding practices. I enjoy exploring new technologies, improving my skills, and contributing to projects that combine development with security. Recently, I’ve also been diving into NixOS and customizing my system (ricing) to create efficient and personalized workflows.
 ---
 
 
