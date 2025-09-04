@@ -1,7 +1,9 @@
 # Filipe Sousa 
 
 ## | StoryTime!
+
 Cybersecurity-focused developer and lifelong learner, passionate about programming and secure coding practices. I enjoy exploring new technologies, improving my skills, and contributing to projects that combine development with security. Recently, I’ve also been diving into NixOS and customizing my system (ricing) to create efficient and personalized workflows.
+
 ---
 
 
