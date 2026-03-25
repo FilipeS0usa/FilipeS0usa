@@ -52,4 +52,4 @@ Cybersecurity-focused developer and lifelong learner, passionate about programmi
 
 ## | Where can you find me?
 
-[GitHub](https://github.com/FilipeS0usa) · [Twitter](https://x.com/filipe_s0usa) · [LinkedIn](https://www.linkedin.com/in/filipes0usa)
+[GitHub](https://github.com/FilipeS0usa) · [Twitter](https://x.com/filipe_s0usa) · [LinkedIn](https://www.linkedin.com/in/filipes0usa) · [Blog](https://filipes0usa.github.io/blog/)
