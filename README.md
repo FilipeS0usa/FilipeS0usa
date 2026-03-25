@@ -1,11 +1,14 @@
-# Filipe Sousa 
+# Hi there, I'm Filipe Sousa! 👋
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=FilipeS0usa&label=Profile%20views&color=0e75b6&style=flat" alt="FilipeS0usa" />
+</p>
 
 ## | StoryTime!
 
-Cybersecurity-focused developer and lifelong learner, passionate about programming and secure coding practices. I enjoy exploring new technologies, improving my skills, and contributing to projects that combine development with security. Recently, I’ve also been diving into NixOS and customizing my system (ricing) to create efficient and personalized workflows.
+Cybersecurity-focused developer and lifelong learner, passionate about programming and secure coding practices. I enjoy exploring new technologies, improving my skills, and contributing to projects that combine development with security. Recently, I've also been diving into NixOS and customizing my system (ricing) to create efficient and personalized workflows.
 
 ---
-
 
 ## | Skills
 
@@ -19,15 +22,35 @@ Cybersecurity-focused developer and lifelong learner, passionate about programmi
 <img align="left" alt="GitLab" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
 <img align="left" alt="Git" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="GitHub" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="GitHub" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nixos/nixos-plain.svg" />   
+<img align="left" alt="Linux" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="NixOS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nixos/nixos-plain.svg" />
 
 <br />
 <br />
+<br />
+
+---
+
+## | Currently Learning 🌱
+
+- 🐧 **NixOS** — declarative system configuration and reproducible environments
+- 🔐 **Cybersecurity** — deepening knowledge in secure coding practices and penetration testing
+
+---
 
 ## | Stats
 
-![FilipeS0usa's Stats](https://github-readme-stats.vercel.app/api?username=FilipeS0usa&theme=tokyonight&show_icons=true&hide_border=true&count_private=true) ![FilipeS0usa's Streak](https://github-readme-streak-stats.herokuapp.com/?user=FilipeS0usa&theme=tokyonight&hide_border=true) ![FilipeS0usa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FilipeS0usa&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&count_private=true)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=FilipeS0usa&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="FilipeS0usa's Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FilipeS0usa&theme=tokyonight&hide_border=true" alt="FilipeS0usa's Streak" />
+</p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilipeS0usa&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&count_private=true" alt="FilipeS0usa's Top Languages" />
+</p>
+
+---
 
 ## | Where can you find me?
-[![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Ffilipe_s0usa&style=for-the-badge&label=Twitter)](https://x.com/filipe_s0usa)
+
+[![GitHub](https://img.shields.io/badge/GitHub-FilipeS0usa-181717?style=for-the-badge&logo=github)](https://github.com/FilipeS0usa)
+[![Twitter](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Ffilipe_s0usa&style=for-the-badge&label=Twitter)](https://x.com/filipe_s0usa)
