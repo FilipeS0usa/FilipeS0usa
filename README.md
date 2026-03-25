@@ -52,6 +52,4 @@ Cybersecurity-focused developer and lifelong learner, passionate about programmi
 
 ## | Where can you find me?
 
-[![GitHub](https://img.shields.io/badge/GitHub-FilipeS0usa-181717?style=for-the-badge&logo=github)](https://github.com/FilipeS0usa)
-[![Twitter](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Ffilipe_s0usa&style=for-the-badge&label=Twitter)](https://x.com/filipe_s0usa)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-filipes0usa-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/filipes0usa)
+[GitHub](https://github.com/FilipeS0usa) · [Twitter](https://x.com/filipe_s0usa) · [LinkedIn](https://www.linkedin.com/in/filipes0usa)
